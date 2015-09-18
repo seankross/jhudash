@@ -28,7 +28,7 @@
   - [USDOE College Scorecard](https://collegescorecard.ed.gov/data/)
 - Natural Disasters (The Humanitarian Data Exchange)
   - [Ebola](https://data.hdx.rwlabs.org/search?sort=views_recent+desc&ext_indicator=0&q=ebola)
-  - [Nepal](https://data.hdx.rwlabs.org/search?sort=views_recent+desc&ext_indicator=0&q=nepal)
+  - [Nepal Earthquake](https://data.hdx.rwlabs.org/search?sort=views_recent+desc&ext_indicator=0&q=nepal)
 
 ### Civic Measurement / Baltimore
 
