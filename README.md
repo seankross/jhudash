@@ -7,7 +7,7 @@
 * Twitter feed: <a class="twitter-timeline" href="https://twitter.com/hashtag/jhudash" data-widget-id="644941046317752320">#jhudash</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 * [Introduction to the Dash](https://docs.google.com/presentation/d/1iNVvjf-LOWU9jAx2B9ZdsEiy0WvMyS0qVwx5yAa6Pgk/edit?usp=sharing)
-* [Help spreadsheet](https://docs.google.com/spreadsheets/d/1F9jbKigSpTZGwseZ4ySf3VPmRWPWX_U2r0ohcF-eteE/edit?usp=sharing)
+* [Help spreadsheet](https://docs.google.com/spreadsheets/d/1F9jbKigSpTZGwseZ4ySf3VPmRWPWX_U2r0ohcF-eteE/edit?usp=sharing) <http://bit.ly/jhudashhelp>
 * [Code of conduct](code-of-conduct.md)
 * Theme areas: Population health, quantified self, current events, Baltimore (civic measurement), Genetics and Genomics
 * Goal: Get people in small groups working on problems they are interested in, build simple but useful data products. 
