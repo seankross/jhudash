@@ -15,6 +15,32 @@
 * Brought to you by: JHU Data Science Lab, JHU Biostatistics, NIH BD2K
 * This website: http://bitly.com/jhudashboard
 
+## Local Restaurants
+
+(According to Roger)
+
+Harbor East area
+
+- Gordon Biersch - Pub food / beer
+- Cinghiale -  Northern Italian food
+- Lebanese Taverna - Mediterranean / Lebanese, good for large groups
+- Wit & Wisdom - Contemporary American (expensive) / good bar
+- Roy's - Hawaiian
+- Chiu's Sushi
+- Ten Ten - contemporary American
+- Fleet Street Kitchen - contemporary American (a bit pricey, but good)
+- Bagby Pizza - pizza / sandwiches / pasta
+- Heavy Seas Alehouse - pub food / local beers (Central Ave.)
+- Whole Foods
+
+Inner Harbor
+
+- Fogo de Chao - Brazillian, incredible amounts of meat
+- Philips - seafood, crab cakes, etc.
+- Shake Shack - burgers
+
+
+
 ## Groups
 
 - [Cost of College](https://github.com/coursera-2015/JHU-DaSH)
