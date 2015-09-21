@@ -13,7 +13,6 @@
 * Goal: Get people in small groups working on problems they are interested in, build simple but useful data products. 
 * tl;dr plan: M - Getting to know you, gearing up, T - Hacking/working, W - Finishing up/presentations. 
 * Brought to you by: JHU Data Science Lab, JHU Biostatistics, NIH BD2K
-* Meal times: 
 * This website: http://bitly.com/jhudashboard
 
 
