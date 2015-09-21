@@ -7,9 +7,10 @@
 
 ## Tutorials
 
-- [Git & GitHub](http://seankross.neocities.org/git.html)
 - [Markdown](https://guides.github.com/features/mastering-markdown/)
 - [Command Line](http://seankross.neocities.org/cli.html)
+- [Git & GitHub](http://seankross.neocities.org/git.html)
+- [R (swirl)](http://swirlstats.com)
 - [Webscraping in R](http://cpsievert.github.io/slides/web-scraping/20150612/#1)
 - [Shiny tutorial](http://shiny.rstudio.com/tutorial/)
 
@@ -37,6 +38,9 @@ https://docs.google.com/spreadsheets/d/1F9jbKigSpTZGwseZ4ySf3VPmRWPWX_U2r0ohcF-e
  - [Example Fitbit data](http://bit.ly/1j1gp5b)
 
 ### Current Events
+
+[Introductory Presentation](https://docs.google.com/presentation/d/1a-zAgYn-JF_Ro4SbEF18b1bQY5dgaP1FxdpMutx2uEk/edit?usp=sharing)
+
 - Hillary Clinton's emails
   - [State Department Email "Reading Room"](https://foia.state.gov/Search/Results.aspx?collection=Clinton_Email)
   - [PDF dump of emails](https://s3-us-west-2.amazonaws.com/nationaljournal/HRC-emails/HRC_june_combined.pdf)
