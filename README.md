@@ -38,6 +38,7 @@
 
 ### Population Health
 
+
 [Introductory presentation](https://docs.google.com/presentation/d/1EUUYCNJDPa9TE6a9tlgqpGi8Ky0McOFPTVehn85D83s/edit?usp=sharing)
 
 - [CMS Data Navigator](http://dnav.cms.gov/)
@@ -92,15 +93,18 @@
 - Socrata: http://www.socrata.com/top-open-data-datasets/
 - Open city data
   - Open Baltimore: https://data.baltimorecity.gov/
+    - [Public safety](https://data.baltimorecity.gov/browse?category=Public%20Safety)
+    - [Health](https://data.baltimorecity.gov/browse?category=Health)
   - Washington D.C.: http://opendata.dc.gov/
   - NYC Open Data: https://data.cityofnewyork.us/
   - Chicago Data Portal: https://data.cityofchicago.org/
   - Seattle: https://data.seattle.gov/
   - Boston: http://www.cityofboston.gov/open/
   - Vancouver: http://vancouver.ca/your-government/open-data-catalogue.aspx
+  - Maryland: https://data.maryland.gov/
   - Many more, Google "open data cityname"
-  
-  
+
+
 ### Genetics + Genomics
 
 [Introductory Presentation](https://docs.google.com/presentation/d/1KRpx-LEnRSMaLhcWI-GNXQwT6uO4RwwWPYgkAOQ-1GU/edit?usp=sharing)
