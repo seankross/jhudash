@@ -15,6 +15,9 @@
 * Brought to you by: JHU Data Science Lab, JHU Biostatistics, NIH BD2K
 * This website: http://bitly.com/jhudashboard
 
+## Groups
+
+- [Cost of College](https://github.com/coursera-2015/JHU-DaSH)
 
 ## Tutorials
 
