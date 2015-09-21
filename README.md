@@ -1,8 +1,19 @@
-# Welcome to DaSH!
+# Welcome to the JHU DaSH!
 
-<a class="twitter-timeline" href="https://twitter.com/hashtag/jhudash" data-widget-id="644941046317752320">View the #jhudash twitter feed!</a>
+## tl;dr
+
+* Dates: Sept 21-23
+* Location: Baltimore Marriott Waterfront
+* Twiter feed: <a class="twitter-timeline" href="https://twitter.com/hashtag/jhudash" data-widget-id="644941046317752320">#jhudash</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-
+* [Introduction to the Dash](https://docs.google.com/presentation/d/1iNVvjf-LOWU9jAx2B9ZdsEiy0WvMyS0qVwx5yAa6Pgk/edit?usp=sharing)
+* [Help spreadsheet](https://docs.google.com/spreadsheets/d/1F9jbKigSpTZGwseZ4ySf3VPmRWPWX_U2r0ohcF-eteE/edit?usp=sharing)
+* [Code of conduct](code-of-conduct.md)
+* Theme areas: Population health, quantified self, current events, Baltimore (civic measurement), Genetics and Genomics
+* Goal: Get people in small groups working on problems they are interested in, build simple but useful data products. 
+* tl;dr plan: M - Getting to know you, gearing up, T - Hacking/working, W - Finishing up/presentations. 
+* Brought to you by: JHU Data Science Lab, JHU Biostatistics, NIH BD2K
+* This website: http://bitly.com/jhudashboard
 
 
 ## Tutorials
@@ -13,14 +24,21 @@
 - [R (swirl)](http://swirlstats.com)
 - [Webscraping in R](http://cpsievert.github.io/slides/web-scraping/20150612/#1)
 - [Shiny tutorial](http://shiny.rstudio.com/tutorial/)
+- [Getting help spreadsheet](https://docs.google.com/spreadsheets/d/1F9jbKigSpTZGwseZ4ySf3VPmRWPWX_U2r0ohcF-eteE/edit?usp=sharing)
 
-Getting help spreadsheet:
+## Tools
 
-https://docs.google.com/spreadsheets/d/1F9jbKigSpTZGwseZ4ySf3VPmRWPWX_U2r0ohcF-eteE/edit?usp=sharing
+* [htmlwidgets](http://www.htmlwidgets.org/)
+* [Shiny](http://shiny.rstudio.com/)
+* [httr](https://cran.r-project.org/web/packages/httr/index.html)
+
 
 ## Datasets
 
+
 ### Population Health
+
+[Introductory presentation](https://docs.google.com/presentation/d/1EUUYCNJDPa9TE6a9tlgqpGi8Ky0McOFPTVehn85D83s/edit?usp=sharing)
 
 - [CMS Data Navigator](http://dnav.cms.gov/)
 - [National Health and Nutrition Examination Survey (NHANES)](http://www.cdc.gov/nchs/nhanes.htm)
@@ -34,8 +52,15 @@ https://docs.google.com/spreadsheets/d/1F9jbKigSpTZGwseZ4ySf3VPmRWPWX_U2r0ohcF-e
 - [EPA National Emissions Inventory](http://www3.epa.gov/ttn/chief/eiinformation.html)
 
 ### Quantified Self
- - [Example MyFitnessPal data](http://bit.ly/1NEtfSa)
- - [Example Fitbit data](http://bit.ly/1j1gp5b)
+
+[Introductory presentation](https://docs.google.com/presentation/d/1chlNAP8Awb0uaBqXJsqN5l_fqHD6y9MWA6Xxl-T4Sfo/edit?usp=sharing)
+
+- [Example MyFitnessPal data](http://bit.ly/1NEtfSa)
+- [Example Fitbit data](http://bit.ly/1j1gp5b)
+- [Quantified self](http://quantifiedself.com/)
+- Software
+  * [accelerometry package](https://cran.r-project.org/web/packages/accelerometry/accelerometry.pdf)
+  * [fitbitScraper](https://github.com/corynissen/fitbitScraper)
 
 ### Current Events
 
@@ -58,6 +83,24 @@ https://docs.google.com/spreadsheets/d/1F9jbKigSpTZGwseZ4ySf3VPmRWPWX_U2r0ohcF-e
 
 ### Civic Measurement / Baltimore
 
+[Introductory presentation](https://docs.google.com/presentation/d/1QTiNzyo1LZXjoA6MeaADtYAg1xo3SzyeJFkr1wgK90Q/edit?usp=sharing)
+
+- Data.gov: http://www.data.gov/
+  - http://www.data.gov/states/
+  - http://www.data.gov/counties/
+  - http://www.data.gov/cities/
+- Socrata: http://www.socrata.com/top-open-data-datasets/
+- Open city data
+  - Open Baltimore: https://data.baltimorecity.gov/
+  - Washington D.C.: http://opendata.dc.gov/
+  - NYC Open Data: https://data.cityofnewyork.us/
+  - Chicago Data Portal: https://data.cityofchicago.org/
+  - Seattle: https://data.seattle.gov/
+  - Boston: http://www.cityofboston.gov/open/
+  - Vancouver: http://vancouver.ca/your-government/open-data-catalogue.aspx
+  - Many more, Google "open data cityname"
+  
+  
 ### Genetics + Genomics
 
 [Introductory Presentation](https://docs.google.com/presentation/d/1KRpx-LEnRSMaLhcWI-GNXQwT6uO4RwwWPYgkAOQ-1GU/edit?usp=sharing)
