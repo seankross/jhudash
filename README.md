@@ -59,6 +59,17 @@ https://docs.google.com/spreadsheets/d/1F9jbKigSpTZGwseZ4ySf3VPmRWPWX_U2r0ohcF-e
 
 ### Civic Measurement / Baltimore
 
+* [Public safety](https://data.baltimorecity.gov/browse?category=Public%20Safety)
+* [Health](https://data.baltimorecity.gov/browse?category=Health)
+
+* Other cities open data sites
+  * [New York](https://data.cityofnewyork.us/)
+  * [Boston](https://data.cityofboston.gov/)
+  * [Chicago](https://data.cityofchicago.org/)
+* [Repository for city datasets](http://www.socrata.com/top-open-data-datasets/)
+* [Maryland open data](https://data.maryland.gov/)
+
+
 ### Genetics + Genomics
 
 [Introductory Presentation](https://docs.google.com/presentation/d/1KRpx-LEnRSMaLhcWI-GNXQwT6uO4RwwWPYgkAOQ-1GU/edit?usp=sharing)
