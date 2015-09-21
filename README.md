@@ -55,3 +55,25 @@ https://docs.google.com/spreadsheets/d/1F9jbKigSpTZGwseZ4ySf3VPmRWPWX_U2r0ohcF-e
 ### Civic Measurement / Baltimore
 
 ### Genetics + Genomics
+
+[Introductory Presentation](https://docs.google.com/presentation/d/1KRpx-LEnRSMaLhcWI-GNXQwT6uO4RwwWPYgkAOQ-1GU/edit?usp=sharing)
+
+- OpenSNP
+  * https://opensnp.org/
+- Clinvar
+  * http://www.ncbi.nlm.nih.gov/clinvar/
+- GEO
+  * http://www.ncbi.nlm.nih.gov/geo/
+- SRA
+  * http://www.ncbi.nlm.nih.gov/sra
+- CADD
+  * http://cadd.gs.washington.edu/
+- Software
+  * [rsnps](https://cran.r-project.org/web/packages/rsnps/index.html)
+  * [SRAdb](https://www.bioconductor.org/packages/release/bioc/html/SRAdb.html)
+  * [geoQuery](http://bioconductor.org/packages/release/bioc/html/GEOquery.html)
+  * [BRCA-diagnostic](http://cbcb.umd.edu/software/BRCA-diagnostic/)
+- GWAS catalog
+  * https://www.genome.gov/26525384
+- OMIM
+  * http://www.ncbi.nlm.nih.gov/omim
