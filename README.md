@@ -35,6 +35,9 @@ https://docs.google.com/spreadsheets/d/1F9jbKigSpTZGwseZ4ySf3VPmRWPWX_U2r0ohcF-e
 - [EPA National Emissions Inventory](http://www3.epa.gov/ttn/chief/eiinformation.html)
 
 ### Quantified Self
+
+[Introductory Presentation](https://docs.google.com/presentation/d/1chlNAP8Awb0uaBqXJsqN5l_fqHD6y9MWA6Xxl-T4Sfo/edit?usp=sharing)
+
  - [Example MyFitnessPal data](http://bit.ly/1NEtfSa)
  - [Example Fitbit data](http://bit.ly/1j1gp5b)
 
