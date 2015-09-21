@@ -7,6 +7,7 @@
 - [Git & GitHub](http://seankross.neocities.org/git.html)
 - [Markdown](https://guides.github.com/features/mastering-markdown/)
 - [Command Line](http://seankross.neocities.org/cli.html)
+- [Webscraping in R](http://cpsievert.github.io/slides/web-scraping/20150612/#1)
 
 ## Datasets
 
