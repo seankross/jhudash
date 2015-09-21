@@ -24,7 +24,6 @@
 - [R (swirl)](http://swirlstats.com)
 - [Webscraping in R](http://cpsievert.github.io/slides/web-scraping/20150612/#1)
 - [Shiny tutorial](http://shiny.rstudio.com/tutorial/)
-
 - [Getting help spreadsheet](https://docs.google.com/spreadsheets/d/1F9jbKigSpTZGwseZ4ySf3VPmRWPWX_U2r0ohcF-eteE/edit?usp=sharing)
 
 ## Tools
