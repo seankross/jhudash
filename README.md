@@ -22,6 +22,8 @@ https://docs.google.com/spreadsheets/d/1F9jbKigSpTZGwseZ4ySf3VPmRWPWX_U2r0ohcF-e
 ### Population Health
 
 ### Quantified Self
+ - [Example MyFitnessPal data](http://bit.ly/1NEtfSa)
+ - [Example Fitbit data](http://bit.ly/1j1gp5b)
 
 ### Current Events
 - Hillary Clinton's emails
