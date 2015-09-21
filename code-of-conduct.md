@@ -6,15 +6,14 @@ All attendees, speakers, sponsors and volunteers at JHU DaSH 2015 are required t
 
 JHU DaSH 2015 is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, or religion (or lack thereof). We do not tolerate harassment of JHU DaSH 2015 participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media. JHU DaSH 2015 participants violating these rules may be sanctioned or expelled from the hackathon without a refund at the discretion of the JHU DaSH 2015 organisers.
 
-The Less Quick Version
+## The Less Quick Version
 
 Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
-Sponsors are also subject to the anti-harassment policy. In particular, sponsors should not use sexualised images, activities, or other material. Booth staff (including volunteers) should not use sexualised clothing/uniforms/costumes, or otherwise create a sexualised environment.
 
-If a participant engages in harassing behavior, the useR! 2015 organisers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.
+If a participant engages in harassing behavior, the JHU DaSH 2015 organisers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of JHU DaSH 2015 organizing committee immediately. JHU DaSH 2015 organizing committee members are Sean, Jeff, Roger, Brian and Leah. 
 
