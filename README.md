@@ -21,20 +21,16 @@ https://docs.google.com/spreadsheets/d/1F9jbKigSpTZGwseZ4ySf3VPmRWPWX_U2r0ohcF-e
 
 ### Population Health
 
-* [CMS Data Navigator](http://dnav.cms.gov/)
-* [National Health and Nutrition Examination Survey (NHANES)](http://www.cdc.gov/nchs/nhanes.htm)
-* [National Health Interview Survey](http://www.cdc.gov/nchs/nhis.htm)
-* [Behavioral Risk Factor Surveillance Survey](http://www.cdc.gov/brfss/data_documentation/index.htm)
-* [General Social Survey](http://www3.norc.org/GSS+Website)
-* [CMS Data on Hospitals and Physicians](https://data.medicare.gov)
-* [National Immunization Survey](http://www.cdc.gov/nchs/nis/data_files.htm)
-* [EPA Air Quality System](http://aqsdr1.epa.gov/aqsweb/aqstmp/airdata/download_files.html)
-* [EPA Toxic Release Inventory](http://www2.epa.gov/toxics-release-inventory-tri-program/tri-data-and-tools)
-* [EPA National Emissions Inventory](http://www3.epa.gov/ttn/chief/eiinformation.html)
-
-
-
-
+- [CMS Data Navigator](http://dnav.cms.gov/)
+- [National Health and Nutrition Examination Survey (NHANES)](http://www.cdc.gov/nchs/nhanes.htm)
+- [National Health Interview Survey](http://www.cdc.gov/nchs/nhis.htm)
+- [Behavioral Risk Factor Surveillance Survey](http://www.cdc.gov/brfss/data_documentation/index.htm)
+- [General Social Survey](http://www3.norc.org/GSS+Website)
+- [CMS Data on Hospitals and Physicians](https://data.medicare.gov)
+- [National Immunization Survey](http://www.cdc.gov/nchs/nis/data_files.htm)
+- [EPA Air Quality System](http://aqsdr1.epa.gov/aqsweb/aqstmp/airdata/download_files.html)
+- [EPA Toxic Release Inventory](http://www2.epa.gov/toxics-release-inventory-tri-program/tri-data-and-tools)
+- [EPA National Emissions Inventory](http://www3.epa.gov/ttn/chief/eiinformation.html)
 
 ### Quantified Self
  - [Example MyFitnessPal data](http://bit.ly/1NEtfSa)
@@ -59,3 +55,25 @@ https://docs.google.com/spreadsheets/d/1F9jbKigSpTZGwseZ4ySf3VPmRWPWX_U2r0ohcF-e
 ### Civic Measurement / Baltimore
 
 ### Genetics + Genomics
+
+[Introductory Presentation](https://docs.google.com/presentation/d/1KRpx-LEnRSMaLhcWI-GNXQwT6uO4RwwWPYgkAOQ-1GU/edit?usp=sharing)
+
+- OpenSNP
+  * https://opensnp.org/
+- Clinvar
+  * http://www.ncbi.nlm.nih.gov/clinvar/
+- GEO
+  * http://www.ncbi.nlm.nih.gov/geo/
+- SRA
+  * http://www.ncbi.nlm.nih.gov/sra
+- CADD
+  * http://cadd.gs.washington.edu/
+- Software
+  * [rsnps](https://cran.r-project.org/web/packages/rsnps/index.html)
+  * [SRAdb](https://www.bioconductor.org/packages/release/bioc/html/SRAdb.html)
+  * [geoQuery](http://bioconductor.org/packages/release/bioc/html/GEOquery.html)
+  * [BRCA-diagnostic](http://cbcb.umd.edu/software/BRCA-diagnostic/)
+- GWAS catalog
+  * https://www.genome.gov/26525384
+- OMIM
+  * http://www.ncbi.nlm.nih.gov/omim
