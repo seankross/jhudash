@@ -95,6 +95,7 @@
   - Open Baltimore: https://data.baltimorecity.gov/
     - [Public safety](https://data.baltimorecity.gov/browse?category=Public%20Safety)
     - [Health](https://data.baltimorecity.gov/browse?category=Health)
+    - [Open GIS](http://gisdata.baltimorecity.gov/)
   - Washington D.C.: http://opendata.dc.gov/
   - NYC Open Data: https://data.cityofnewyork.us/
   - Chicago Data Portal: https://data.cityofchicago.org/
