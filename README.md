@@ -12,6 +12,26 @@
 
 ### Population Health
 
+* [CMS Data Navigator](http://dnav.cms.gov/)
+
+* [National Health and Nutrition Examination Survey (NHANES)](http://www.cdc.gov/nchs/nhanes.htm)
+
+* [National Health Interview Survey](http://www.cdc.gov/nchs/nhis.htm)
+
+* [Behavioral Risk Factor Surveillance Survey](http://www.cdc.gov/brfss/data_documentation/index.htm)
+
+* [General Social Survey](http://www3.norc.org/GSS+Website)
+
+* [CMS Data on Hospitals and Physicians](https://data.medicare.gov)
+
+* [National Immunization Survey](http://www.cdc.gov/nchs/nis/data_files.htm)
+
+* [EPA Air Quality System](http://aqsdr1.epa.gov/aqsweb/aqstmp/airdata/download_files.html)
+
+* [EPA Toxic Release Inventory](http://www2.epa.gov/toxics-release-inventory-tri-program/tri-data-and-tools)
+
+
+
 ### Quantified Self
 
 ### Current Events
