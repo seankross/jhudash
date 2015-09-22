@@ -54,6 +54,10 @@ Inner Harbor
 - Identifying people eligible for Maryland State Homeowner tax credit
 - Correlation between lead levels and violent crime
 - [Census Tools](https://github.com/Ryan-J-Smith/jhu-dash-census)
+- Which peptides are best for vaccines?
+- What disease are mice a good model for?
+
+
 
 ## Tutorials
 
