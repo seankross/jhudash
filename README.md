@@ -15,6 +15,16 @@
 * Brought to you by: JHU Data Science Lab, JHU Biostatistics, NIH BD2K
 * This website: http://bitly.com/jhudashboard
 
+## Presentation Format for Wednesday 9/23
+
+- Presentations will be from 11am-12:30pm
+- Each group will present for **5 minutes**
+- Quickly restate the question / problem you're trying to address
+- Describe the datasets you ended up using and how you put them together
+- If doing a slide presentation, shoot for 5 slides
+- You don't have to do slides, for example, if you have an interactive
+  demo (e.g. Shiny app)
+
 ## Local Restaurants
 
 (According to Roger)
