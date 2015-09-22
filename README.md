@@ -53,6 +53,8 @@ Inner Harbor
 - Best time to go to the aquarium?
 - Identifying people eligible for Maryland State Homeowner tax credit
 - Correlation between lead levels and violent crime
+- Which peptides are best for vaccines?
+- What disease are mice a good model for?
 
 
 ## Tutorials
