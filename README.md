@@ -4,16 +4,55 @@
 
 * Dates: Sept 21-23
 * Location: Baltimore Marriott Waterfront
-* Twiter feed: <a class="twitter-timeline" href="https://twitter.com/hashtag/jhudash" data-widget-id="644941046317752320">#jhudash</a>
+* Twitter feed: <a class="twitter-timeline" href="https://twitter.com/hashtag/jhudash" data-widget-id="644941046317752320">#jhudash</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 * [Introduction to the Dash](https://docs.google.com/presentation/d/1iNVvjf-LOWU9jAx2B9ZdsEiy0WvMyS0qVwx5yAa6Pgk/edit?usp=sharing)
-* [Help spreadsheet](https://docs.google.com/spreadsheets/d/1F9jbKigSpTZGwseZ4ySf3VPmRWPWX_U2r0ohcF-eteE/edit?usp=sharing)
+* [Help spreadsheet](https://docs.google.com/spreadsheets/d/1F9jbKigSpTZGwseZ4ySf3VPmRWPWX_U2r0ohcF-eteE/edit?usp=sharing) <http://bit.ly/jhudashhelp>
 * [Code of conduct](code-of-conduct.md)
 * Theme areas: Population health, quantified self, current events, Baltimore (civic measurement), Genetics and Genomics
 * Goal: Get people in small groups working on problems they are interested in, build simple but useful data products. 
 * tl;dr plan: M - Getting to know you, gearing up, T - Hacking/working, W - Finishing up/presentations. 
 * Brought to you by: JHU Data Science Lab, JHU Biostatistics, NIH BD2K
 * This website: http://bitly.com/jhudashboard
+
+## Local Restaurants
+
+(According to Roger)
+
+Harbor East area
+
+- Gordon Biersch - Pub food / beer
+- Cinghiale -  Northern Italian food
+- Lebanese Taverna - Mediterranean / Lebanese, good for large groups
+- Wit & Wisdom - Contemporary American (expensive) / good bar
+- Roy's - Hawaiian
+- Chiu's Sushi
+- Ten Ten - contemporary American
+- Fleet Street Kitchen - contemporary American (a bit pricey, but good)
+- Bagby Pizza - pizza / sandwiches / pasta
+- Heavy Seas Alehouse - pub food / local beers (Central Ave.)
+- Whole Foods
+
+Inner Harbor
+
+- Fogo de Chao - Brazillian, incredible amounts of meat
+- Philips - seafood, crab cakes, etc.
+- Shake Shack - burgers
+
+
+
+## Groups
+
+- [Cost of College](https://github.com/coursera-2015/JHU-DaSH)
+- Street safety, biking - traffic, potholes
+- Quantified self - MyFitnessPal, shiny app for visualizing others' data
+- Fracking in Pennsylvania
+- ER visits, hospitalizations --> unemployment rate in cities in California; by state-level analysis, all visits to hospital by unemployment; migration
+- Syrian refugees - cost for refugees, cost for countries to accept refugees; matching countries to refugees - types of economies; develop "expected" capacity for refugees
+- Cancer cell line data - classifier w/heterogeneous microarray data; testing on single-cell data
+- Best time to go to the aquarium?
+- Identifying people eligible for Maryland State Homeowner tax credit
+- Correlation between lead levels and violent crime
 
 
 ## Tutorials
