@@ -10,8 +10,8 @@
 * [Help spreadsheet](https://docs.google.com/spreadsheets/d/1F9jbKigSpTZGwseZ4ySf3VPmRWPWX_U2r0ohcF-eteE/edit?usp=sharing) <http://bit.ly/jhudashhelp>
 * [Code of conduct](code-of-conduct.md)
 * Theme areas: Population health, quantified self, current events, Baltimore (civic measurement), Genetics and Genomics
-* Goal: Get people in small groups working on problems they are interested in, build simple but useful data products. 
-* tl;dr plan: M - Getting to know you, gearing up, T - Hacking/working, W - Finishing up/presentations. 
+* Goal: Get people in small groups working on problems they are interested in, build simple but useful data products.
+* tl;dr plan: M - Getting to know you, gearing up, T - Hacking/working, W - Finishing up/presentations.
 * Brought to you by: JHU Data Science Lab, JHU Biostatistics, NIH BD2K
 * This website: http://bitly.com/jhudashboard
 
@@ -44,7 +44,7 @@ Inner Harbor
 ## Groups
 
 - [Cost of College](https://github.com/coursera-2015/JHU-DaSH)
-- Street safety, biking - traffic, potholes
+- [Street safety, biking - traffic, potholes](https://github.com/kbroman/jhudashbike)
 - Quantified self - MyFitnessPal, shiny app for visualizing others' data
 - Fracking in Pennsylvania
 - ER visits, hospitalizations --> unemployment rate in cities in California; by state-level analysis, all visits to hospital by unemployment; migration
