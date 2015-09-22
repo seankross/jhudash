@@ -62,7 +62,7 @@ Inner Harbor
 - Cancer cell line data - classifier w/heterogeneous microarray data; testing on single-cell data
 - Best time to go to the aquarium?
 - Identifying people eligible for Maryland State Homeowner tax credit
-- Correlation between lead levels and violent crime
+- [Correlation between lead levels and violent crime](https://github.com/yxes/jhudash-leadteam)
 - [Census Tools](https://github.com/Ryan-J-Smith/jhu-dash-census)
 - Which peptides are best for vaccines?
 - What disease are mice a good model for?
