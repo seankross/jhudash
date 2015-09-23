@@ -56,6 +56,7 @@ Inner Harbor
 - [Cost of College](https://github.com/coursera-2015/JHU-DaSH)
 - [Street safety, biking - traffic, potholes](http://kbroman.org/jhudashbike)
 - [Quantified self](https://github.com/neolee11/jhu_dash) - MyFitnessPal, shiny app for visualizing others' data
+- [Quantified self](https://github.com/grosenf1/Fitbit_analysis_JHUDash) - Team Fitbit, code for scraping and wrangling fitbit data, shiny app to visualize day/time patterns in steps and sleep.
 - Fracking in Pennsylvania
 - ER visits, hospitalizations --> unemployment rate in cities in California; by state-level analysis, all visits to hospital by unemployment; migration
 - Syrian refugees - cost for refugees, cost for countries to accept refugees; matching countries to refugees - types of economies; develop "expected" capacity for refugees
