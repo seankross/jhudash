@@ -67,7 +67,7 @@ Inner Harbor
 - [Census Tools Github Repo](https://github.com/Ryan-J-Smith/jhu-dash-census)
 - [Censust Tools Project Page](http://ryan-j-smith.github.io/jhu-dash-census)
 - [Which peptides are best for vaccines?](https://github.com/andretadeu/jhu-immuno)
-- What disease are mice a good model for?
+- [What disease are mice a good model for?](https://github.com/emilliman5/Alzheimers_Dash)
 
 
 
