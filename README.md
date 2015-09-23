@@ -63,7 +63,8 @@ Inner Harbor
 - Best time to go to the aquarium?
 - Identifying people eligible for Maryland State Homeowner tax credit
 - [Correlation between lead levels and violent crime](https://github.com/yxes/jhudash-leadteam)
-- [Census Tools](https://github.com/Ryan-J-Smith/jhu-dash-census)
+- [Census Tools Github Repo](https://github.com/Ryan-J-Smith/jhu-dash-census)
+- [Censust Tools Project Page](http://ryan-j-smith.github.io/jhu-dash-census)
 - Which peptides are best for vaccines?
 - What disease are mice a good model for?
 
