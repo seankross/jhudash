@@ -60,7 +60,7 @@ Inner Harbor
 - ER visits, hospitalizations --> unemployment rate in cities in California; by state-level analysis, all visits to hospital by unemployment; migration
 - Syrian refugees - cost for refugees, cost for countries to accept refugees; matching countries to refugees - types of economies; develop "expected" capacity for refugees
 - Cancer cell line data - classifier w/heterogeneous microarray data; testing on single-cell data
-- Best time to go to the aquarium?
+- [Best time to go to the aquarium?](https://github.com/etsuprun/crowdattraction)
 - Identifying people eligible for Maryland State Homeowner tax credit
 - [Correlation between lead levels and violent crime](https://github.com/yxes/jhudash-leadteam)
 - [Census Tools Github Repo](https://github.com/Ryan-J-Smith/jhu-dash-census)
