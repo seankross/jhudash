@@ -66,7 +66,7 @@ Inner Harbor
 - [Correlation between lead levels and violent crime](https://github.com/yxes/jhudash-leadteam)
 - [Census Tools Github Repo](https://github.com/Ryan-J-Smith/jhu-dash-census)
 - [Censust Tools Project Page](http://ryan-j-smith.github.io/jhu-dash-census)
-- Which peptides are best for vaccines?
+- [Which peptides are best for vaccines?](https://github.com/andretadeu/jhu-immuno)
 - What disease are mice a good model for?
 
 
